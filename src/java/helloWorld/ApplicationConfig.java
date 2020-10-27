@@ -10,7 +10,7 @@ import java.util.Set;
 import javax.ws.rs.core.Application;
 
 /**
- * Hello Carles 
+ * Hello Carles today
  * @author Carles
  */
 @javax.ws.rs.ApplicationPath("webresources")
