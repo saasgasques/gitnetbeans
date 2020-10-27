@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package helloWorld;
+package helloWorld; 
 
 import java.util.Set;
 import javax.ws.rs.core.Application;

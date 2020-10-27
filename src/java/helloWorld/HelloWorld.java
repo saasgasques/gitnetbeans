@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package helloWorld;
+package helloWorld; 
 
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.UriInfo;
