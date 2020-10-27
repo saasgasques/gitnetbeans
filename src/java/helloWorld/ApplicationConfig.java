@@ -10,8 +10,8 @@ import java.util.Set;
 import javax.ws.rs.core.Application;
 
 /**
- * Hello Carles today
- * @author Carles Gasques Baró
+ * Hello Carles Gasques today
+ * @author Carles Gasques Baró 
  */
 @javax.ws.rs.ApplicationPath("webresources")
 public class ApplicationConfig extends Application {
