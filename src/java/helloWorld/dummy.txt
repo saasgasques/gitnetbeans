@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-dummy 2020
-=======
-dummy 2020
->>>>>>> 4b70f1350c8cebfae4a5f3a205612d2e4622d696
+dummy 2020 octubre
