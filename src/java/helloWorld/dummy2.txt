@@ -1,1 +1,3 @@
 dummy 2
+red 
+blue
