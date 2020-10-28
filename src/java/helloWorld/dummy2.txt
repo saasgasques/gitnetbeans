@@ -3,3 +3,4 @@ myred
 miblue
 red 
 blue
+other blue
