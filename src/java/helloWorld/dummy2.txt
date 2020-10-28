@@ -4,3 +4,4 @@ miblue
 red 
 blue
 other blue
+server red
